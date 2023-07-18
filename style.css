@@ -1,0 +1,80 @@
+
+.fullbox{
+    padding: 10px;
+}
+
+
+
+.likes{
+  font-size:24px; 
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.line{
+  margin-top: -10px;
+}
+
+.block{
+padding: 15px;
+}
+
+.lstcntspn{
+border-radius: 20px;
+padding: 1px;
+padding-right: 8px;
+padding-left: 8px;
+}
+
+.lastcontent{
+margin-left: 120px;
+margin-right: 120px;
+}
+
+.firsttable{
+margin-left: 150px;
+margin-right: 150px;
+}
+
+.sectable{
+margin-left: 150px;
+margin-right: 150px;
+}
+
+.sectablespan{
+border-radius: 5px;
+}
+
+
+ .imagess {
+    width: 284px;
+    padding: 10px 10px 20px 10px ;
+    border: 1px solid #BFBFBF;
+    background-color: #e7e4e4;
+    box-shadow: 10px 10px 5px #e7e4e4;
+    margin-left: 100px;
+    margin: 30px;
+  }
+ .picture {
+    width: 284px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: #e7e4e4;
+     box-shadow: 10px 10px 5px #e7e4e4;
+     margin-left: 100px;
+     margin: 30px;
+
+  }
+  .photo {
+    width: 284px;
+    padding: 10px 10px 20px 10px ;
+    border: 1px solid #BFBFBF;
+    background-color: #e7e4e4;
+     box-shadow: 10px 10px 5px #e7e4e4;
+     margin-left: 100px;
+     margin: 30px;
+  }
+
+  
